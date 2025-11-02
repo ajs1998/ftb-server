@@ -7,8 +7,8 @@ services:
     stdin_open: true
     environment:
       TYPE: "FTBA"
-      FTB_MODPACK_ID: "129"
-      MEMORY: "6G"
+      FTB_MODPACK_ID: "125"
+      MEMORY: "12G"
       MOTD: "Modded Minecraft"
       EULA: "TRUE"
     volumes:
